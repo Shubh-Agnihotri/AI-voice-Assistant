@@ -31,13 +31,6 @@ A simple Python-based AI Voice Assistant that:
 
 ## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/voice-assistant.git
-cd voice-assistant
-```
-
 Install dependencies:
 
 ```bash
