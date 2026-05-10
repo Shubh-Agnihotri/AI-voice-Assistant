@@ -106,4 +106,4 @@ MIT License
 
 ## 👨‍💻 Author
 
-Shubham
+Shubham Sharma
