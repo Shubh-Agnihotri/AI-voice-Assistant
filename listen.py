@@ -44,7 +44,7 @@ def think(text: str):
     try:
         # Ensure you have pulled the model via: ollama pull llama3
         response = requests.post(
-        "http://172.18.43.121:11434/api/chat",
+        "http://XXX.XX.XX.XXX:11434/api/chat",
         json={
             "model": "llama4",
             "messages": [{"role": "user", "content": text}],
